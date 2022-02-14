@@ -29,7 +29,7 @@
 
 #Information about the functions and instructions used in the project is specified as a comment line in the relevant dart files.
 
-<img src="images/Sign_in.jpeg" width="160" > <img src="images/WhatsApp Image 2022-01-08 at 16.42.38.jpeg" width="160">
+<img src="images/Sign_in.jpeg" width="160" >  <img src="images/WhatsApp Image 2022-01-08 at 16.42.38.jpeg" width="160">
 <img src="images/WhatsApp Image 2022-01-08 at 16.42.44.jpeg" width="160">
 <img src="images/WhatsApp Image 2022-01-08 at 16.42.48.jpeg" width="160">
 <img src="images/WhatsApp Image 2022-01-08 at 16.42.52.jpeg" width="160">
