@@ -28,3 +28,12 @@
 #In this way, it is possible to track who is the owner of the application and which events are organized.
 
 #Information about the functions and instructions used in the project is specified as a comment line in the relevant dart files.
+
+![Sign_in](https://user-images.githubusercontent.com/96293740/153848848-3de51edb-0a45-4030-ae6e-a81082abb748.jpeg)
+![WhatsApp Image 2022-01-08 at 16 42 38](https://user-images.githubusercontent.com/96293740/153848849-eb7d6367-b2d7-45bd-bf48-a4bf08f93bc6.jpeg)
+![WhatsApp Image 2022-01-09 at 17 28 13](https://user-images.githubusercontent.com/96293740/153848847-896d148c-8c9f-43b3-973a-49672db63c58.jpeg)
+![WhatsApp Image 2022-01-08 at 16 42 44](https://user-images.githubusercontent.com/96293740/153848853-ccf6df98-6299-4a9c-bfbb-ea9255cde0c1.jpeg)
+![WhatsApp Image 2022-01-08 at 16 42 48](https://user-images.githubusercontent.com/96293740/153848855-a75f8cdb-4cae-45fd-9d3c-de7a5523013a.jpeg)
+![WhatsApp Image 2022-01-08 at 16 42 52](https://user-images.githubusercontent.com/96293740/153848856-7daa306f-3aaf-4ebd-8329-c9412ab60fae.jpeg)
+![WhatsApp Image 2022-01-08 at 16 44 19](https://user-images.githubusercontent.com/96293740/153848857-a8b0d09c-4937-41f4-a896-fce5cf12639d.jpeg)
+![WhatsApp Image 2022-01-09 at 02 21 34](https://user-images.githubusercontent.com/96293740/153848860-5a3181db-bbc8-4691-bac1-b57f63928c7a.jpeg)
